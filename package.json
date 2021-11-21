@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "Jibin Thomas",
   "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3"
+  },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-etherscan": "^2.1.7",
